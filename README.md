@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on MCT
-- 🌱 I’m currently learning Motion Caputre
+- 🔭 I’m currently working on AI Voice Assitant
+- 🌱 I’m currently learning Data Manipulation
 - 👯 I’m looking to collaborate on creating an AI
 - 🤔 I’m looking for help with Everything
 - 💬 Ask me about Anything and Nothing
