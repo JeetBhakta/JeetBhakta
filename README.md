@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on AI Voice Assitant
+- 🔭 I’m currently working on Music Bot for Discord
 - 🌱 I’m currently learning Data Manipulation
 - 👯 I’m looking to collaborate on creating an AI
 - 🤔 I’m looking for help with Everything
